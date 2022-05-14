@@ -1,0 +1,27 @@
+{
+  "config": {
+    "branch": "main",
+    "cname": "www.520495.xyz",
+    "domain": "https://www.520495.xyz",
+    "email": "2967630235@qq.com",
+    "platform": "github",
+    "repository": "websitePage",
+    "token": "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",
+    "username": "PPKunOfficial"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
